@@ -1,1 +1,1 @@
-# Curso-Basico-de-Python-Platzi
+Códigos desarrollados en el curso básico de Python en Platzi
